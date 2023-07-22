@@ -2,7 +2,7 @@
 
 ## HW Traffic capture
 
-### Task: Make in Rewrite, and in BreakPoint (Change url in Charles: request - name that is stated in Postman, in response - name that was replaced in Charles).
+### Task 1: Make in Rewrite, and in BreakPoint (Change url in Charles: request - name that is stated in Postman, in response - name that was replaced in Charles).
 
 `Proxy --> Breakpoint Settings... --> Add`
 
@@ -21,4 +21,16 @@
 `Send request in Postman`
 
 ![2023-07-22 14_08_27-EP_1 - My Workspace](https://github.com/KseniyaKom/Charles/assets/111349889/4f069747-2ff2-464b-a57f-f83a7fec77ad)
+
+### Task 2: Make in Rewrite, and in BreakPoint (Change body in Charles: request - salary that is stated in Postman, in response (u_salary_1_5_year) - number returned is less then the original from the request).
+
+`BreakPoint`
+
+![2023-07-22 14_19_39-EP_2 - My Workspace](https://github.com/KseniyaKom/Charles/assets/111349889/9cc7e1df-6e76-4ff9-a3a2-bc91effeb5ae)
+
+`Rewrite`
+
+![2023-07-22 14_25_12-Rewrite Rule](https://github.com/KseniyaKom/Charles/assets/111349889/a6f2a3ec-6789-469a-885f-cce8f2d0a323)
+
+![2023-07-22 14_25_24-EP_2 - My Workspace](https://github.com/KseniyaKom/Charles/assets/111349889/75e68ad5-713e-49df-9bdf-e16f168195b7)
 
